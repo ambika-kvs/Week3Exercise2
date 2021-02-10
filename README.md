@@ -1,4 +1,4 @@
-# Week3Exercise2
+Week3Exercise2
 
 
 To Run:
